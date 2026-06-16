@@ -1,7 +1,7 @@
 # Serenity: Mental Health Support Chatbot (Frontend Integration)
 
 ## 🔗 Live System Links
-* **Live Chat User Interface (GitHub Pages):** `[https://samerjessy02.github.io/serenity-chatbot-frontend/]`
+* **Live Chat User Interface (GitHub Pages):** [https://samerjessy02.github.io/serenity-chatbot-frontend/]
 * **Production API Backend (Hugging Face Spaces):** [https://khalidahmed1-serenity-backend.hf.space/](https://khalidahmed1-serenity-backend.hf.space/)
 * **Backend Source Repository:** [https://github.com/mohammedrefai20/Serenity-Chatbot](https://github.com/mohammedrefai20/Serenity-Chatbot)
 
