@@ -8,10 +8,7 @@
 ---
 
 ## 📌 Project Overview
-This repository contains the static user interface for **Serenity**, an empathetic mental health support chatbot. Built using vanilla HTML5, CSS3, and JavaScript, this frontend has been forked, modified, and successfully integrated with a production-grade MLOps backend API to satisfy the integration parameters outlined in **"MLOps - Final Project Rubric.docx"**. 
-
-The primary technical modification in this repository involves updating `app.js` to replace the default mock environments with a hardcoded connection pointing straight to your live production FastAPI instance. This configuration routes all real-time traffic securely across dedicated network layers using strict CORS middleware configurations.
-
+This repository contains the static user interface for **Serenity**, an empathetic mental health support chatbot. Built using vanilla HTML5, CSS3, and JavaScript, this frontend has been forked, modified, and  integrated with a production-grade MLOps backend API.
 ---
 
 ## 🧪 End-to-End System Trials & Validation Showcase
